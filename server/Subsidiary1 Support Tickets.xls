@@ -1,0 +1,1017 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:x='urn:schemas-microsoft-com:office:excel' xmlns='http://www.w3.org/TR/REC-html40'>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style>
+
+</style>
+<!--[if gte mso 9]>
+
+<![endif]-->
+</head>
+<body>
+	<div id="ctl00_ContentPlaceHolder1_RGTicketList_GridData" class="rgDataDiv" style="overflow-x:auto;overflow-y:scroll;width:100%;height:320px;">
+
+<table class=" rgClipCells" rules="all" border="1" id="ctl00_ContentPlaceHolder1_RGTicketList_ctl00" style="width:100%;table-layout:fixed;overflow:hidden;empty-cells:show;">
+	<colgroup>
+		<col style="width:4%" />
+		<col style="width:7%" />
+		<col style="width:22%" />
+		<col style="width:6%" />
+		<col style="width:14%" />
+		<col  />
+		<col style="width:3%" />
+		<col style="width:7%" />
+		<col style="width:5%" />
+		<col style="width:7%" />
+		<col style="width:7%" />
+		<col style="width:7%" />
+		<col style="width:5%" />
+		<col style="width:3%" />
+	</colgroup>
+<thead>
+		<tr>
+			<th scope="col">Sorted ascSorted desc</th><th scope="col">ID#Sorted ascSorted desc</th><th scope="col">SubjectSorted ascSorted desc</th><th scope="col">RemarksSorted ascSorted desc</th><th scope="col">FromSorted ascSorted desc</th><th scope="col">Email DateSorted ascSorted desc</th><th scope="col">Replied BySorted ascSorted desc</th><th scope="col">Create DateSorted ascSorted desc</th><th scope="col">SourceSorted ascSorted desc</th><th scope="col">AssignToSorted ascSorted desc</th><th scope="col">FollowupSorted ascSorted desc</th><th scope="col">StatusSorted ascSorted desc</th><th scope="col">ElapseSorted ascSorted desc</th><th scope="col">PrioritySorted ascSorted desc</th>
+		</tr>
+	</thead><tbody>
+	<tr>
+		<td>Delete Ticket</td><td>
+                                
+                            100147</td><td style="background-color:LightBlue;">
+                                
+                            Demo 123 - [#CSS-100147]</td><td>
+                                
+                            </td><td>123demo@gmail.com</td><td>12-Aug-2021 04:01 PM</td><td>
+                                System
+                                
+                            </td><td>12-Aug-2021</td><td>Email</td><td>Aloha</td><td>13-Aug-2021</td><td>Open</td><td style="mso-number-format:0;">40</td><td>
+                                
+                                Low
+                                
+                            </td>
+	</tr><tr>
+		<td>Delete Ticket</td><td>
+                                
+                            100103</td><td>
+                                
+                            Demo Attachemnt - [#CSS-100103]</td><td>
+                                
+                            </td><td>demo@yopmail.co</td><td>12-Aug-2021 02:18 PM</td><td>
+                                System
+                                
+                            </td><td>04-Aug-2021</td><td>Email</td><td>Prokorpmgmt</td><td>05-Aug-2021</td><td>Draft</td><td style="mso-number-format:0;">&nbsp;</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr>
+		<td>Delete Ticket</td><td>
+                                
+                            100133</td><td>
+                                
+                            Demo 123 - [#CSS-100133]</td><td>
+                                
+                            </td><td>123demo@yopmail.com</td><td>11-Aug-2021 10:55 PM</td><td>
+                                System
+                                
+                            </td><td>11-Aug-2021</td><td>Email</td><td>&nbsp;</td><td>12-Aug-2021</td><td>Draft</td><td style="mso-number-format:0;">&nbsp;</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr>
+		<td>Delete Ticket</td><td>
+                                
+                            100138</td><td>
+                                
+                            Test Email - [#CSS-100138]</td><td>
+                                
+                            </td><td>abc@gmail.com</td><td>11-Aug-2021 10:54 PM</td><td>
+                                System
+                                
+                            </td><td>11-Aug-2021</td><td>Email</td><td>&nbsp;</td><td>12-Aug-2021</td><td>Draft</td><td style="mso-number-format:0;">&nbsp;</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr>
+		<td>Delete Ticket</td><td>
+                                
+                            100139</td><td>
+                                
+                            Test Email - [#CSS-100139]</td><td>
+                                
+                            demo 4</td><td>abc@gmail.com</td><td>11-Aug-2021 10:13 PM</td><td>
+                                System
+                                
+                            </td><td>11-Aug-2021</td><td>Email</td><td>&nbsp;</td><td>12-Aug-2021</td><td>Draft</td><td style="mso-number-format:0;">&nbsp;</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr>
+		<td>Delete Ticket</td><td>
+                                
+                            100140</td><td>
+                                
+                            Testing1 - [#CSS-100140]</td><td>
+                                
+                            </td><td>abc@gmail.com</td><td>11-Aug-2021 09:24 PM</td><td>
+                                System
+                                
+                            </td><td>11-Aug-2021</td><td>Email</td><td>&nbsp;</td><td>12-Aug-2021</td><td>Draft</td><td style="mso-number-format:0;">&nbsp;</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr>
+		<td>Delete Ticket</td><td>
+                                
+                            100146</td><td>
+                                
+                            Demo Test 12 - [#CSS-100146]</td><td>
+                                
+                            </td><td>123demo@yopmail.com</td><td>11-Aug-2021 09:19 PM</td><td>
+                                System
+                                
+                            </td><td>11-Aug-2021</td><td>Email</td><td>&nbsp;</td><td>12-Aug-2021</td><td>Open</td><td style="mso-number-format:0;">41</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr>
+		<td>Delete Ticket</td><td>
+                                
+                            100145</td><td>
+                                
+                            Demo Test 12 - [#CSS-100145]</td><td>
+                                
+                            demo duplicate</td><td>123demo@yopmail.com</td><td>11-Aug-2021 09:19 PM</td><td>
+                                System
+                                
+                            </td><td>11-Aug-2021</td><td>Email</td><td>&nbsp;</td><td>12-Aug-2021</td><td>Open</td><td style="mso-number-format:0;">41</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr>
+		<td>Delete Ticket</td><td>
+                                
+                            100144</td><td>
+                                
+                            Demo Test 12 - [#CSS-100144]</td><td>
+                                
+                            </td><td>123demo@yopmail.com</td><td>11-Aug-2021 09:19 PM</td><td>
+                                System
+                                
+                            </td><td>11-Aug-2021</td><td>Email</td><td>&nbsp;</td><td>12-Aug-2021</td><td>Open</td><td style="mso-number-format:0;">41</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr>
+		<td>Delete Ticket</td><td>
+                                
+                            100136</td><td>
+                                
+                            Demo1230 - [#CSS-100136]</td><td>
+                                
+                            demo2 00</td><td>123demo@yopmail.com</td><td>11-Aug-2021 05:33 PM</td><td>
+                                System
+                                
+                            </td><td>11-Aug-2021</td><td>Email</td><td>&nbsp;</td><td>12-Aug-2021</td><td>Draft</td><td style="mso-number-format:0;">&nbsp;</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr>
+		<td>Delete Ticket</td><td>
+                                
+                            100043</td><td>
+                                
+                            Test - [#CSS-100043]</td><td>
+                                
+                            Why is this still pending?</td><td>liza@prokorp.sg</td><td>11-Aug-2021 05:09 PM</td><td>
+                                System
+                                
+                            </td><td>21-May-2021</td><td>Email</td><td>Adminneebal</td><td>22-May-2021</td><td>Draft</td><td style="mso-number-format:0;">&nbsp;</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr>
+		<td>Delete Ticket</td><td>
+                                
+                            100135</td><td>
+                                
+                            Demo123 - [#CSS-100135]</td><td>
+                                
+                            </td><td>123demo@yopmail.com</td><td>11-Aug-2021 05:08 PM</td><td>
+                                System
+                                
+                            </td><td>11-Aug-2021</td><td>Email</td><td>&nbsp;</td><td>12-Aug-2021</td><td>Draft</td><td style="mso-number-format:0;">&nbsp;</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr>
+		<td>Delete Ticket</td><td>
+                                
+                            100134</td><td>
+                                
+                            Demo1234 - [#CSS-100134]</td><td>
+                                
+                            </td><td>123demo@yopmail.com</td><td>11-Aug-2021 04:46 PM</td><td>
+                                System
+                                
+                            </td><td>11-Aug-2021</td><td>Email</td><td>&nbsp;</td><td>12-Aug-2021</td><td>Draft</td><td style="mso-number-format:0;">&nbsp;</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr>
+		<td>Delete Ticket</td><td>
+                                
+                            100143</td><td>
+                                
+                            Demo 123 - [#CSS-100143]</td><td>
+                                
+                            </td><td>123demo@yopmail.com</td><td>11-Aug-2021 04:42 PM</td><td>
+                                System
+                                
+                            </td><td>11-Aug-2021</td><td>Email</td><td>&nbsp;</td><td>12-Aug-2021</td><td>Open</td><td style="mso-number-format:0;">41</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr>
+		<td>Delete Ticket</td><td>
+                                
+                            100133</td><td>
+                                
+                            Demo 123 - [#CSS-100133]</td><td>
+                                
+                            </td><td>123demo@yopmail.com</td><td>11-Aug-2021 04:42 PM</td><td>
+                                System
+                                
+                            </td><td>11-Aug-2021</td><td>Email</td><td>&nbsp;</td><td>12-Aug-2021</td><td>Open</td><td style="mso-number-format:0;">41</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr>
+		<td>Delete Ticket</td><td>
+                                
+                            100131</td><td>
+                                
+                            Demo 123 - [#CSS-100131]</td><td>
+                                
+                            </td><td>123demo@yopmail.com</td><td>06-Aug-2021 10:16 PM</td><td>
+                                System
+                                
+                            </td><td>06-Aug-2021</td><td>Email</td><td>Angus.Young</td><td>07-Aug-2021</td><td>Open</td><td style="mso-number-format:0;">46</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr>
+		<td>Delete Ticket</td><td>
+                                
+                            100119</td><td>
+                                
+                            Index Demo - [#CSS-100119]</td><td>
+                                
+                            </td><td>alohatechnology123@outlook.com</td><td>06-Aug-2021 08:46 PM</td><td>
+                                System
+                                
+                            </td><td>04-Aug-2021</td><td>Email</td><td>Test004</td><td>06-Aug-2021</td><td>Draft</td><td style="mso-number-format:0;">&nbsp;</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr>
+		<td>Delete Ticket</td><td>
+                                
+                            100130</td><td>
+                                
+                            Demo Test 123 - [#css]</td><td>
+                                
+                            </td><td>123demo@yopmail.com</td><td>06-Aug-2021 04:20 PM</td><td>
+                                System
+                                
+                            </td><td>06-Aug-2021</td><td>Email</td><td>Aloha</td><td>07-Aug-2021</td><td>Draft</td><td style="mso-number-format:0;">&nbsp;</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr>
+		<td>Delete Ticket</td><td>
+                                
+                            100130</td><td style="background-color:LightBlue;">
+                                
+                            Demo Test 123 - [#CSS-100130]</td><td>
+                                
+                            </td><td>123demo@yopmail.com</td><td>06-Aug-2021 04:20 PM</td><td>
+                                System
+                                
+                            </td><td>06-Aug-2021</td><td>Email</td><td>Aloha</td><td>07-Aug-2021</td><td>Open</td><td style="mso-number-format:0;">46</td><td>
+                                
+                                Low
+                                
+                            </td>
+	</tr><tr>
+		<td>Delete Ticket</td><td>
+                                
+                            100122</td><td>
+                                
+                            Demo 123 - [#CSS-100122]</td><td>
+                                
+                            </td><td>123demo@yopmail.com</td><td>06-Aug-2021 04:19 PM</td><td>
+                                System
+                                
+                            </td><td>05-Aug-2021</td><td>Email</td><td>Test004</td><td>06-Aug-2021</td><td>Draft</td><td style="mso-number-format:0;">&nbsp;</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr>
+		<td>Delete Ticket</td><td>
+                                
+                            100129</td><td>
+                                
+                            M69 - [#CSS-100129]</td><td>
+                                
+                            </td><td>alohatechnology55@gmail.com</td><td>06-Aug-2021 02:39 AM</td><td>
+                                System
+                                
+                            </td><td>06-Aug-2021</td><td>Email</td><td>System</td><td>07-Aug-2021</td><td>Open</td><td style="mso-number-format:0;">46</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr>
+		<td>Delete Ticket</td><td>
+                                
+                            100122</td><td style="background-color:#FF9696;">
+                                
+                            Demo 123 - [#CSS-100122]</td><td>
+                                
+                            </td><td>123demo@yopmail.com</td><td>05-Aug-2021 11:42 PM</td><td>
+                                System
+                                
+                            </td><td>05-Aug-2021</td><td>Email</td><td>Test004</td><td>06-Aug-2021</td><td>Open</td><td style="mso-number-format:0;">47</td><td>
+                                High
+                                
+                                
+                            </td>
+	</tr><tr>
+		<td>Delete Ticket</td><td>
+                                
+                            100119</td><td>
+                                
+                            Index Demo - [#CSS-100119]</td><td>
+                                
+                            </td><td>alohatechnology123@outlook.com</td><td>05-Aug-2021 10:31 PM</td><td>
+                                System
+                                
+                            </td><td>04-Aug-2021</td><td>Email</td><td>Test004</td><td>06-Aug-2021</td><td>Draft</td><td style="mso-number-format:0;">&nbsp;</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr>
+		<td>Delete Ticket</td><td>
+                                
+                            100065</td><td>
+                                
+                            Test1 - [#CSS-100065]</td><td>
+                                
+                            </td><td>alohatechnology55@gmail.com</td><td>05-Aug-2021 09:58 PM</td><td>
+                                System
+                                
+                            </td><td>29-Jul-2021</td><td>Email</td><td>Liza</td><td>30-Jul-2021</td><td>Draft</td><td style="mso-number-format:0;">&nbsp;</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr>
+		<td>Delete Ticket</td><td>
+                                
+                            100121</td><td>
+                                
+                            Demo - [#CSS-100121]</td><td>
+                                
+                            </td><td>alohatechnology123@outlook.com</td><td>05-Aug-2021 07:34 PM</td><td>
+                                
+                                --
+                            </td><td>05-Aug-2021</td><td>Email</td><td>&nbsp;</td><td>&nbsp;</td><td>Open</td><td style="mso-number-format:0;">47</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr>
+		<td>Delete Ticket</td><td>
+                                
+                            100120</td><td>
+                                
+                            Attachment Demo - [#CSS-100120]</td><td>
+                                
+                            </td><td>alohatechnology123@outlook.com</td><td>05-Aug-2021 07:32 PM</td><td>
+                                
+                                --
+                            </td><td>05-Aug-2021</td><td>Email</td><td>&nbsp;</td><td>&nbsp;</td><td>Open</td><td style="mso-number-format:0;">47</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr style="background-color:AliceBlue;">
+		<td>Delete Ticket</td><td>
+                                
+                            100118</td><td>
+                                
+                            Undeliverable: Demo Test - [#CSS-100118]</td><td>
+                                
+                            </td><td>aalohatechnology123@outlook.com</td><td>05-Aug-2021 06:24 PM</td><td>
+                                
+                                --
+                            </td><td>04-Aug-2021</td><td>Email</td><td>Test004</td><td>05-Aug-2021</td><td>Followup</td><td style="mso-number-format:0;">47</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr style="background-color:AliceBlue;">
+		<td>Delete Ticket</td><td>
+                                
+                            100119</td><td>
+                                
+                            Re: Index Demo - - [#CSS-100119]</td><td>
+                                
+                            </td><td>alohatechnology123@outlook.com</td><td>05-Aug-2021 04:22 PM</td><td>
+                                
+                                --
+                            </td><td>04-Aug-2021</td><td>Email</td><td>Test004</td><td>06-Aug-2021</td><td>Followup</td><td style="mso-number-format:0;">47</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr style="background-color:AliceBlue;">
+		<td>Delete Ticket</td><td>
+                                
+                            100061</td><td>
+                                
+                            Re: Demotest Data - [#CSS-100061]</td><td>
+                                
+                            </td><td>123demo@yopmail.com</td><td>04-Aug-2021 10:30 PM</td><td>
+                                
+                                --
+                            </td><td>29-Jul-2021</td><td>Email</td><td>&nbsp;</td><td>30-Jul-2021</td><td>Followup</td><td style="mso-number-format:0;">48</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr style="background-color:AliceBlue;">
+		<td>Delete Ticket</td><td>
+                                
+                            100112</td><td>
+                                
+                            Re: Test Img - [#CSS-100112]</td><td>
+                                
+                            </td><td>alohatechnology123@outlook.com</td><td>04-Aug-2021 10:19 PM</td><td>
+                                
+                                --
+                            </td><td>04-Aug-2021</td><td>Email</td><td>Test004</td><td>05-Aug-2021</td><td>Followup</td><td style="mso-number-format:0;">48</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr>
+		<td>Delete Ticket</td><td>
+                                
+                            100095</td><td>
+                                
+                            Pdf Demo - [#CSS-100095]</td><td>
+                                
+                            </td><td>123demo@yopmail.com</td><td>04-Aug-2021 09:24 PM</td><td>
+                                System
+                                
+                            </td><td>04-Aug-2021</td><td>Email</td><td>&nbsp;</td><td>05-Aug-2021</td><td>Draft</td><td style="mso-number-format:0;">&nbsp;</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr>
+		<td>Delete Ticket</td><td>
+                                
+                            100095</td><td>
+                                
+                            Pdf Demo - [#CSS-100095]</td><td>
+                                
+                            </td><td>123demo@yopmail.com</td><td>04-Aug-2021 09:24 PM</td><td>
+                                System
+                                
+                            </td><td>04-Aug-2021</td><td>Email</td><td>&nbsp;</td><td>05-Aug-2021</td><td>Draft</td><td style="mso-number-format:0;">&nbsp;</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr>
+		<td>Delete Ticket</td><td>
+                                
+                            100086</td><td>
+                                
+                            Test - [#CSS-100086]</td><td>
+                                
+                            </td><td>manish@prokorp.sg</td><td>04-Aug-2021 09:23 PM</td><td>
+                                System
+                                
+                            </td><td>03-Aug-2021</td><td>Email</td><td>&nbsp;</td><td>04-Aug-2021</td><td>Draft</td><td style="mso-number-format:0;">&nbsp;</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr>
+		<td>Delete Ticket</td><td>
+                                
+                            100086</td><td>
+                                
+                            Test - [#CSS-100086]</td><td>
+                                
+                            </td><td>manish@prokorp.sg</td><td>04-Aug-2021 09:23 PM</td><td>
+                                System
+                                
+                            </td><td>03-Aug-2021</td><td>Email</td><td>&nbsp;</td><td>04-Aug-2021</td><td>Draft</td><td style="mso-number-format:0;">&nbsp;</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr>
+		<td>Delete Ticket</td><td>
+                                
+                            100110</td><td>
+                                
+                            Testing - [#css]</td><td>
+                                
+                            </td><td>abc@gmail.com</td><td>04-Aug-2021 09:06 PM</td><td>
+                                System
+                                
+                            </td><td>04-Aug-2021</td><td>Email</td><td>Test004</td><td>05-Aug-2021</td><td>Draft</td><td style="mso-number-format:0;">&nbsp;</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr>
+		<td>Delete Ticket</td><td>
+                                
+                            100107</td><td>
+                                
+                            Demo 1235 - [#CSS-100107]</td><td>
+                                
+                            </td><td>123demo@yopmail.com</td><td>04-Aug-2021 08:59 PM</td><td>
+                                System
+                                
+                            </td><td>04-Aug-2021</td><td>Email</td><td>Prokorpmgmt</td><td>05-Aug-2021</td><td>Draft</td><td style="mso-number-format:0;">&nbsp;</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr>
+		<td>Delete Ticket</td><td>
+                                
+                            100088</td><td>
+                                
+                            Demo - [#CSS-100088]</td><td>
+                                
+                            </td><td>123demo@yopmail.com</td><td>04-Aug-2021 07:31 PM</td><td>
+                                System
+                                
+                            </td><td>03-Aug-2021</td><td>Email</td><td>Test004</td><td>04-Aug-2021</td><td>Draft</td><td style="mso-number-format:0;">&nbsp;</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr>
+		<td>Delete Ticket</td><td>
+                                
+                            100108</td><td>
+                                
+                            Test 04/08-1 - [#CSS-100108]</td><td>
+                                
+                            </td><td>alohatechnology55@gmail.com</td><td>04-Aug-2021 07:24 PM</td><td>
+                                
+                                --
+                            </td><td>04-Aug-2021</td><td>Email</td><td>Adminneebal</td><td>&nbsp;</td><td>Open</td><td style="mso-number-format:0;">48</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr>
+		<td>Delete Ticket</td><td>
+                                
+                            100105</td><td>
+                                
+                            Demo Attachemnt - [#css] - [#css] - [#css]</td><td>
+                                
+                            </td><td>demo@yopmail.co</td><td>04-Aug-2021 07:18 PM</td><td>
+                                System
+                                
+                            </td><td>04-Aug-2021</td><td>Email</td><td>&nbsp;</td><td>05-Aug-2021</td><td>Draft</td><td style="mso-number-format:0;">&nbsp;</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr>
+		<td>Delete Ticket</td><td>
+                                
+                            100104</td><td>
+                                
+                            Demo Attachemnt - [#css] - [#css]</td><td>
+                                
+                            </td><td>demo@yopmail.co</td><td>04-Aug-2021 07:18 PM</td><td>
+                                System
+                                
+                            </td><td>04-Aug-2021</td><td>Email</td><td>&nbsp;</td><td>05-Aug-2021</td><td>Draft</td><td style="mso-number-format:0;">&nbsp;</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr>
+		<td>Delete Ticket</td><td>
+                                
+                            100103</td><td>
+                                
+                            Demo Attachemnt - [#CSS-100103]</td><td>
+                                
+                            </td><td>demo@yopmail.co</td><td>04-Aug-2021 07:17 PM</td><td>
+                                System
+                                
+                            </td><td>04-Aug-2021</td><td>Email</td><td>Prokorpmgmt</td><td>05-Aug-2021</td><td>Open</td><td style="mso-number-format:0;">48</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr style="background-color:AliceBlue;">
+		<td>Delete Ticket</td><td>
+                                
+                            100097</td><td>
+                                
+                            Undeliverable: Demo - [#CSS-100097]</td><td>
+                                
+                            </td><td>123demo@yopmail.com</td><td>04-Aug-2021 06:16 PM</td><td>
+                                
+                                --
+                            </td><td>04-Aug-2021</td><td>Email</td><td>&nbsp;</td><td>05-Aug-2021</td><td>Followup</td><td style="mso-number-format:0;">48</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr>
+		<td>Delete Ticket</td><td>
+                                
+                            100096</td><td>
+                                
+                            Demo - [#css]</td><td>
+                                
+                            </td><td>123demo@yopmail.com</td><td>04-Aug-2021 06:13 PM</td><td>
+                                System
+                                
+                            </td><td>04-Aug-2021</td><td>Email</td><td>&nbsp;</td><td>05-Aug-2021</td><td>Draft</td><td style="mso-number-format:0;">&nbsp;</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr style="background-color:AliceBlue;">
+		<td>Delete Ticket</td><td>
+                                
+                            100095</td><td>
+                                
+                            Undeliverable: Pdf Demo - [#CSS-100095]</td><td>
+                                
+                            </td><td>123demo@yopmail.com</td><td>04-Aug-2021 06:03 PM</td><td>
+                                
+                                --
+                            </td><td>04-Aug-2021</td><td>Email</td><td>&nbsp;</td><td>05-Aug-2021</td><td>Followup</td><td style="mso-number-format:0;">48</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr>
+		<td>Delete Ticket</td><td>
+                                
+                            100094</td><td>
+                                
+                            Draft Demo - [#css]</td><td>
+                                
+                            </td><td>123demo@yopmail</td><td>04-Aug-2021 04:37 PM</td><td>
+                                System
+                                
+                            </td><td>04-Aug-2021</td><td>Email</td><td>&nbsp;</td><td>05-Aug-2021</td><td>Draft</td><td style="mso-number-format:0;">&nbsp;</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr>
+		<td>Delete Ticket</td><td>
+                                
+                            100085</td><td>
+                                
+                            Your Daily Briefing - [#CSS-100085]</td><td>
+                                
+                            </td><td>cortana@microsoft.com</td><td>04-Aug-2021 01:40 AM</td><td>
+                                System
+                                
+                            </td><td>03-Aug-2021</td><td>Email</td><td>&nbsp;</td><td>&nbsp;</td><td>Draft</td><td style="mso-number-format:0;">&nbsp;</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr>
+		<td>Delete Ticket</td><td>
+                                
+                            100093</td><td>
+                                
+                            Demo - [#css]</td><td>
+                                
+                            to test remarks</td><td>123demo@yopmail.com</td><td>04-Aug-2021 01:38 AM</td><td>
+                                System
+                                
+                            </td><td>04-Aug-2021</td><td>Email</td><td>Test004</td><td>05-Aug-2021</td><td>Draft</td><td style="mso-number-format:0;">&nbsp;</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr>
+		<td>Delete Ticket</td><td>
+                                
+                            100093</td><td>
+                                
+                            Demo - [#CSS-100093]</td><td>
+                                
+                            to test remarks</td><td>123demo@yopmail.com</td><td>04-Aug-2021 01:38 AM</td><td>
+                                System
+                                
+                            </td><td>04-Aug-2021</td><td>Email</td><td>Test004</td><td>05-Aug-2021</td><td>Open</td><td style="mso-number-format:0;">48</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr>
+		<td>Delete Ticket</td><td>
+                                
+                            100092</td><td>
+                                
+                            Demo Img - [#css]</td><td>
+                                
+                            </td><td>123demo@yopmail.com</td><td>04-Aug-2021 12:56 AM</td><td>
+                                System
+                                
+                            </td><td>04-Aug-2021</td><td>Email</td><td>&nbsp;</td><td>05-Aug-2021</td><td>Draft</td><td style="mso-number-format:0;">&nbsp;</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr>
+		<td>Delete Ticket</td><td>
+                                
+                            100117</td><td>
+                                
+                            Demo Img - [#CSS-100117]</td><td>
+                                
+                            demo 123</td><td>123demo@yopmail.com</td><td>04-Aug-2021 12:56 AM</td><td>
+                                System
+                                
+                            </td><td>04-Aug-2021</td><td>Email</td><td>Aloha</td><td>05-Aug-2021</td><td>Open</td><td style="mso-number-format:0;">48</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr>
+		<td>Delete Ticket</td><td>
+                                
+                            100091</td><td>
+                                
+                            Demo - [#css]</td><td>
+                                
+                            </td><td>123demo@yopmail.com</td><td>04-Aug-2021 12:54 AM</td><td>
+                                System
+                                
+                            </td><td>04-Aug-2021</td><td>Email</td><td>&nbsp;</td><td>05-Aug-2021</td><td>Draft</td><td style="mso-number-format:0;">&nbsp;</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr>
+		<td>Delete Ticket</td><td>
+                                
+                            100091</td><td>
+                                
+                            Demo - [#CSS-100091]</td><td>
+                                
+                            </td><td>123demo@yopmail.com</td><td>04-Aug-2021 12:54 AM</td><td>
+                                System
+                                
+                            </td><td>04-Aug-2021</td><td>Email</td><td>&nbsp;</td><td>05-Aug-2021</td><td>Open</td><td style="mso-number-format:0;">48</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr style="background-color:AliceBlue;">
+		<td>Delete Ticket</td><td>
+                                
+                            100086</td><td>
+                                
+                            Re: Test - [#CSS-100086]</td><td>
+                                
+                            </td><td>manish@prokorp.sg</td><td>03-Aug-2021 03:22 PM</td><td>
+                                
+                                --
+                            </td><td>03-Aug-2021</td><td>Email</td><td>&nbsp;</td><td>04-Aug-2021</td><td>Followup</td><td style="mso-number-format:0;">49</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr>
+		<td>Delete Ticket</td><td>
+                                
+                            100085</td><td>
+                                
+                            Your Daily Briefing - [#CSS-100085]</td><td>
+                                
+                            </td><td>cortana@microsoft.com</td><td>03-Aug-2021 06:05 AM</td><td>
+                                
+                                --
+                            </td><td>03-Aug-2021</td><td>Email</td><td>&nbsp;</td><td>&nbsp;</td><td>Open</td><td style="mso-number-format:0;">49</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr>
+		<td>Delete Ticket</td><td>
+                                
+                            100084</td><td>
+                                
+                            Your Daily Briefing - [#CSS-100084]</td><td>
+                                
+                            </td><td>cortana@microsoft.com</td><td>02-Aug-2021 06:10 AM</td><td>
+                                
+                                --
+                            </td><td>02-Aug-2021</td><td>Email</td><td>&nbsp;</td><td>&nbsp;</td><td>Open</td><td style="mso-number-format:0;">50</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr style="background-color:AliceBlue;">
+		<td>Delete Ticket</td><td>
+                                
+                            100060</td><td>
+                                
+                            Undeliverable: Test Sale Order - [#CSS-100060]</td><td>
+                                
+                            </td><td>123demo@opmail.com</td><td>31-Jul-2021 07:28 PM</td><td>
+                                
+                                --
+                            </td><td>29-Jul-2021</td><td>Email</td><td>Aloha</td><td>30-Jul-2021</td><td>Followup</td><td style="mso-number-format:0;">52</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr style="background-color:AliceBlue;">
+		<td>Delete Ticket</td><td>
+                                
+                            100056</td><td style="background-color:#FFF8C6;">
+                                
+                            Undeliverable: Test Subject8899 - [#CSS-100056]</td><td>
+                                
+                            </td><td>test@test.com</td><td>31-Jul-2021 07:02 PM</td><td>
+                                
+                                --
+                            </td><td>29-Jul-2021</td><td>Email</td><td>Adminneebal</td><td>30-Jul-2021</td><td>Followup</td><td style="mso-number-format:0;">52</td><td>
+                                
+                                
+                                Normal
+                            </td>
+	</tr><tr style="background-color:AliceBlue;">
+		<td>Delete Ticket</td><td>
+                                
+                            100083</td><td>
+                                
+                            Test 30/07 - [#CSS-100083]</td><td>
+                                
+                            </td><td>alohatechnology55@gmail.com</td><td>30-Jul-2021 11:14 PM</td><td>
+                                
+                                --
+                            </td><td>30-Jul-2021</td><td>Email</td><td>Aloha</td><td>31-Jul-2021</td><td>Followup</td><td style="mso-number-format:0;">53</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr style="background-color:AliceBlue;">
+		<td>Delete Ticket</td><td>
+                                
+                            100053</td><td>
+                                
+                            Undeliverable: To Test Ticket System - [#CSS-100053]</td><td>
+                                
+                            </td><td>123demo@yopmail.com</td><td>30-Jul-2021 03:08 PM</td><td>
+                                
+                                --
+                            </td><td>29-Jul-2021</td><td>Email</td><td>&nbsp;</td><td>29-Jul-2021</td><td>Followup</td><td style="mso-number-format:0;">53</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr style="background-color:AliceBlue;">
+		<td>Delete Ticket</td><td>
+                                
+                            100073</td><td>
+                                
+                            Alohatechnology55 - [#CSS-100073]</td><td>
+                                
+                            </td><td>alohatechnology55@gmail.com</td><td>30-Jul-2021 12:27 AM</td><td>
+                                
+                                --
+                            </td><td>30-Jul-2021</td><td>Email</td><td>Aloha</td><td>31-Jul-2021</td><td>Followup</td><td style="mso-number-format:0;">53</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr style="background-color:AliceBlue;">
+		<td>Delete Ticket</td><td>
+                                
+                            100058</td><td>
+                                
+                            Undeliverable: Demo Ticket - [#CSS-100058]</td><td>
+                                
+                            </td><td>123cdemo1@yopmail.com</td><td>29-Jul-2021 05:10 PM</td><td>
+                                
+                                --
+                            </td><td>29-Jul-2021</td><td>Email</td><td>&nbsp;</td><td>30-Jul-2021</td><td>Followup</td><td style="mso-number-format:0;">54</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr style="background-color:AliceBlue;">
+		<td>Delete Ticket</td><td>
+                                
+                            100057</td><td>
+                                
+                            Undeliverable: Sale Order - [#CSS-100057]</td><td>
+                                
+                            </td><td>123cdemo@yopmail.com</td><td>29-Jul-2021 05:02 PM</td><td>
+                                
+                                --
+                            </td><td>29-Jul-2021</td><td>Email</td><td>&nbsp;</td><td>30-Jul-2021</td><td>Followup</td><td style="mso-number-format:0;">54</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr>
+		<td>Delete Ticket</td><td>
+                                
+                            100053</td><td>
+                                
+                            To Test Ticket System - [#CSS-100053]</td><td>
+                                
+                            </td><td>123demo@yopmail.com</td><td>29-Jul-2021 03:46 PM</td><td>
+                                System
+                                
+                            </td><td>29-Jul-2021</td><td>Email</td><td>&nbsp;</td><td>29-Jul-2021</td><td>Draft</td><td style="mso-number-format:0;">&nbsp;</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr>
+		<td>Delete Ticket</td><td>
+                                
+                            100054</td><td>
+                                
+                            Demo Test - [#css]</td><td>
+                                
+                            </td><td>123cdemo@yopmail.com</td><td>29-Jul-2021 03:31 PM</td><td>
+                                System
+                                
+                            </td><td>29-Jul-2021</td><td>Email</td><td>&nbsp;</td><td>30-Jul-2021</td><td>Draft</td><td style="mso-number-format:0;">&nbsp;</td><td>
+                                
+                                
+                                
+                            </td>
+	</tr><tr style="background-color:AliceBlue;">
+		<td>Delete Ticket</td><td>
+                                
+                            100043</td><td style="background-color:#FF9696;">
+                                
+                            Re: Test - [#CSS-100043]</td><td>
+                                
+                            Why is this still pending?</td><td>liza@prokorp.sg</td><td>21-May-2021 10:53 AM</td><td>
+                                
+                                --
+                            </td><td>21-May-2021</td><td>Email</td><td>Adminneebal</td><td>22-May-2021</td><td>Followup</td><td style="mso-number-format:0;">123</td><td>
+                                High
+                                
+                                
+                            </td>
+	</tr>
+	</tbody>
+
+</table>	</div>
+<div id='ctl00_ContentPlaceHolder1_RGTicketList_ctl00_VirtualScroll' style='overflow-y:scroll;position:absolute;right:0;top:0;width:18px;height:320px;'><div style='height:250000px;width:1px;' ></div></div>
+</body></html>

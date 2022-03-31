@@ -1,0 +1,15 @@
+﻿Sorted ascSorted desc,ID#Sorted ascSorted desc,SubjectSorted ascSorted desc,RemarksSorted ascSorted desc,FromSorted ascSorted desc,Email DateSorted ascSorted desc,Replied BySorted ascSorted desc,Create DateSorted ascSorted desc,SourceSorted ascSorted desc,AssignToSorted ascSorted desc,FollowupSorted ascSorted desc,StatusSorted ascSorted desc,ElapseSorted ascSorted desc,PrioritySorted ascSorted desc
+Delete Ticket,100147,Demo 123 - [#CSS-100147],,123demo@gmail.com,12/8/2021 16:01,System,12-Aug-21,Email,Aloha,13-Aug-21,Open,40,Low
+Delete Ticket,100103,Demo Attachemnt - [#CSS-100103],,demo@yopmail.co,12/8/2021 14:18,System,4-Aug-21,Email,Prokorpmgmt,5-Aug-21,Draft,,
+Delete Ticket,100133,Demo 123 - [#CSS-100133],,123demo@yopmail.com,11/8/2021 22:55,System,11-Aug-21,Email,,12-Aug-21,Draft,,
+Delete Ticket,100138,Test Email - [#CSS-100138],,abc@gmail.com,11/8/2021 22:54,System,11-Aug-21,Email,,12-Aug-21,Draft,,
+Delete Ticket,100139,Test Email - [#CSS-100139],demo 4,abc@gmail.com,11/8/2021 22:13,System,11-Aug-21,Email,,12-Aug-21,Draft,,
+Delete Ticket,100140,Testing1 - [#CSS-100140],,abc@gmail.com,11/8/2021 21:24,System,11-Aug-21,Email,,12-Aug-21,Draft,,
+Delete Ticket,100146,Demo Test 12 - [#CSS-100146],,123demo@yopmail.com,11/8/2021 21:19,System,11-Aug-21,Email,,12-Aug-21,Open,41,
+Delete Ticket,100145,Demo Test 12 - [#CSS-100145],demo duplicate,123demo@yopmail.com,11/8/2021 21:19,System,11-Aug-21,Email,,12-Aug-21,Open,41,
+Delete Ticket,100144,Demo Test 12 - [#CSS-100144],,123demo@yopmail.com,11/8/2021 21:19,System,11-Aug-21,Email,,12-Aug-21,Open,41,
+Delete Ticket,100136,Demo1230 - [#CSS-100136],demo2 00,123demo@yopmail.com,11/8/2021 17:33,System,11-Aug-21,Email,,12-Aug-21,Draft,,
+Delete Ticket,100043,Test - [#CSS-100043],Why is this still pending?,liza@prokorp.sg,11/8/2021 17:09,System,21-May-21,Email,Adminneebal,22-May-21,Draft,,
+Delete Ticket,100135,Demo123 - [#CSS-100135],,123demo@yopmail.com,11/8/2021 17:08,System,11-Aug-21,Email,,12-Aug-21,Draft,,
+Delete Ticket,100134,Demo1234 - [#CSS-100134],,123demo@yopmail.com,11/8/2021 16:46,System,11-Aug-21,Email,,12-Aug-21,Draft,,
+Delete Ticket,100143,Demo 123 - [#CSS-100143],,123demo@yopmail.com,11/8/2021 16:42,System,11-Aug-21,Email,,12-Aug-21,Open,41,
